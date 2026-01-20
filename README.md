@@ -25,7 +25,7 @@ Database: <Database details, e.g., MySQL or MongoDB>
 API Testing: Postman
 
 Access the App:
-Open your browser and visit http://localhost:<port>
+Open your browser and visit
 
 Test with Postman:
 
