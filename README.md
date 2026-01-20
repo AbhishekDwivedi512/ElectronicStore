@@ -40,6 +40,8 @@ Home Page
 Product List
 
 
+Note User need to create the application.properties file by there own with there cedentials
+
 🖌️ Contact
 
 For any inquiries or feedback, reach out to:
