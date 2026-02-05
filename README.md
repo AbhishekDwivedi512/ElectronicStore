@@ -29,7 +29,7 @@ Open your browser and visit
 
 Test with Postman:
 
-Import the provided Postman collection (if available) and test the APIs.
+Import the provided Postman collection and test the APIs.
 
 📸 Screenshots
 
